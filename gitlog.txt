@@ -1,0 +1,11 @@
+commit 8d8ea4ff23ba2fa3dba826dc2a3ef946b82d7da1
+Author: Jolly <li.zhao@umu.se>
+Date:   Tue Oct 9 14:26:18 2018 +0200
+
+    deleted line
+
+commit f174c33922cd580d31fa309df4b36cd4bd26ce55
+Author: Jolly <zhao.wei@umu.se>
+Date:   Tue Oct 9 13:59:57 2018 +0200
+
+    Created the file mars.txt
